@@ -2,8 +2,13 @@
 
 ## Assignment 1: Data Preparation
 
+The Kaggle datasets require a login for download, which adds unnecessary complexity to the assignment. To streamline the process, I have uploaded the data to GitHub.
 
-- [01.](01)Glass Identification dataset:
+- [github.com/turcotte/csi4106-f24/tree/main/assignments-data/a1](https://github.com/turcotte/csi4106-f24/tree/main/assignments-data/a1)
+
+In your notebook, you can access and read the data directly from this GitHub repository.
+
+- [01.](01) Glass Identification dataset:
     - Number of samples: 214, Number of attributes: 9, Number of classes: 7 (type of glass like tableware, headlamps, vehicle)
     - [www.kaggle.com/datasets/danushkumarv/glass-identification-data-set](https://www.kaggle.com/datasets/danushkumarv/glass-identification-data-set) 
 
@@ -31,10 +36,5 @@
     - Number of samples: 100K, Number of attributes: 27, Number of classes: 3 (Good, Standard, Poor)
     - [www.kaggle.com/datasets/parisrohan/credit-score-classification](https://www.kaggle.com/datasets/parisrohan/credit-score-classification)
 
-The Kaggle datasets require a login for download, which adds unnecessary complexity to the assignment. To streamline the process, I have uploaded the data to GitHub.
-
-- [github.com/turcotte/csi4106-f24/tree/main/assignments-data/a1](https://github.com/turcotte/csi4106-f24/tree/main/assignments-data/a1)
-
-In your notebook, you can access and read the data directly from this GitHub repository.
 
 
